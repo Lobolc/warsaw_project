@@ -1,0 +1,16 @@
+## DBCh - MLC
+
+## Introduction.
+## In this document we will be exploring some models to obtain an estimate
+## for the money laundry problem.
+
+## Theoretical background
+
+## Data set.
+
+## Data cleansing
+
+## The model
+
+## Qualitative Interpretation.
+
